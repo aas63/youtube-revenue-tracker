@@ -13,6 +13,9 @@ A sleek desktop app that calculates revenue earned per video based on YouTube vi
   <img width="468" height="272" alt="image" src="https://github.com/user-attachments/assets/ef130b99-dedd-4886-9c0b-baba41ff0411" />
 
 📂 The report that is generated
+
+
+
   <img width="114" height="140" alt="image" src="https://github.com/user-attachments/assets/114797cd-a608-48d9-b46a-37cc46e0c36b" />
   <img width="242" height="304" alt="image" src="https://github.com/user-attachments/assets/3f291df2-e592-4210-89e4-23caf0e23e04" />
 
